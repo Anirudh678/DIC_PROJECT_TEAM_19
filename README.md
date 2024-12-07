@@ -44,7 +44,7 @@ ANALYSIS - BEFORE CELL 287,288 / AFTER CELL 291
 
 src/ contains all ipynb code , pdf file with output, cosmetics dataset, chemicals-in-cosmetics dataset, merged-data dataset & README file
 
----------------------------------------------------------- PHASE 3------------------------------------------------------------------------------
+---------------------------------------------------------PHASE 3 -------------------------------------------------------
 THIS PROJECT WAS UPLOADED ONTO fly.io PLATFORM AND URL WAS GENERATED WHICH CAN BE USED BY THE USER --> https://dic-project.fly.dev/
 
 1) CLICK ON THE LINK AND INPUT YOUR DATA YOU WANT TO SEE
